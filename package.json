@@ -1,0 +1,21 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^23.3.13",
+    "@types/node": "^10.12.21",
+    "jest": "^24.0.0",
+    "restify": "^7.7.0"
+  },
+  "peerDependencies": {
+    "restify": "^7.7.0"
+  }
+}
